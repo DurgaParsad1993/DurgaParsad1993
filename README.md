@@ -1,5 +1,5 @@
 
-![logo](https://github.com/DurgaParsad1993/DurgaParsad1993/blob/main/Untitled%20design.png)
+![logo](https://github.com/DurgaParsad1993/DurgaParsad1993/blob/main/pixelcut-export.png)
 
 <h1 align="center">Hi 👋, I'm Durga Parsad</h1>
 <h3 align="center">A passionate Business Data Analyst from India</h3>
